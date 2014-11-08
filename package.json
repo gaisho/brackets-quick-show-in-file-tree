@@ -1,0 +1,12 @@
+{
+    "name": "donebyexperts.quick-show-in-file-tree",
+    "title": "Quick Show In File Tree",
+    "description": "Creates context menu and shortcut to quickly show a file in project tree.",
+    "homepage": "https://github.com/vusisindane/brackets-quick-show-in-file-tree#brackets-quick-show-in-file-tree",
+    "version": "0.0.1",
+    "author": "Vusi Sindane <vusisindane@gmail.com> (http://github.com/vusisindane)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.24.0"
+    }
+}
